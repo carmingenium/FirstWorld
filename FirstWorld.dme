@@ -14,5 +14,6 @@
 
 // BEGIN_INCLUDE
 #include "FirstWorld.dm"
+#include "map1.dmm"
 // END_INCLUDE
 
