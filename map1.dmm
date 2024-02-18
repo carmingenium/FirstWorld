@@ -1,5 +1,6 @@
 "a" = (/turf/wall,/area)
 "b" = (/turf/floor,/area)
+"c" = (/turf/start,/area)
 
 (1,1,1) = {"
 aaaaaaaaaa
@@ -10,6 +11,6 @@ aaaaabbbba
 abbbbbbbba
 bbbbbbbbba
 bbbbbabbba
-bbbbbabbba
+bcbbbabbba
 bbbaaaaaaa
 "}
