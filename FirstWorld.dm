@@ -6,10 +6,24 @@ turf
 		density = 1
 	start
 		icon = 'start.dmi'
-	trap
-		pit
-		quicksand
-		glue
+
+// a way of writing children and parents together.
+// turf/trap
+// 	pit; quicksand; glue
+
+// second way
+// turf/trap
+// {
+// 	pit
+// 	quicksand
+// 	glue 
+// }
+
+// third way
+// turf/trap/pit
+// 	tar
+// 	lava
+// 	bottomless
 
 mob
 	icon = 'player.dmi'
